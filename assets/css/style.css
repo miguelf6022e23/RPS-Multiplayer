@@ -8,6 +8,19 @@ body {
 	background-color: #D2B48C;
 }
 
+.choice{
+	margin-top: 25px; 
+	cursor: pointer;
+}
+
+.choice:hover{
+	color:yellow;
+}
+
+.selected{
+	color: yellow;
+}
+
 .box{
 	width: 225px;
 	height: 250px;
